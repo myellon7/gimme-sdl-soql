@@ -1,0 +1,6 @@
+SELECT Id, DeliveryInstallationStatus__c,
+TrackingNumber__c,
+OrderNumber__c,
+CurrentGenerators__c,
+MainCompetitors__c 
+FROM Opportunity

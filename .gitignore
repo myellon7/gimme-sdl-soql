@@ -1,0 +1,7 @@
+build.properties
+.sfdx
+.vscode
+config
+force-app
+sfdx-project.json
+text.xml

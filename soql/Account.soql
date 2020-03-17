@@ -1,0 +1,9 @@
+SELECT Id, CustomerPriority__c,
+SLA__c,
+Active__c,
+NumberofLocations__c,
+UpsellOpportunity__c,
+SLASerialNumber__c,
+SLAExpirationDate__c,
+Testing_Mark__r.wmxid__c 
+FROM Account
