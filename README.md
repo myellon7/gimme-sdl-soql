@@ -8,4 +8,10 @@ Usage:
 
 Requirements:
 
-there are some. figuring that out...
+python (version)
+packages:
+  Beautiful Soup
+  json
+  os
+  requests
+
