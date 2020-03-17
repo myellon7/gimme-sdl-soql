@@ -10,8 +10,8 @@ Requirements:
 
 python (version)
 packages:
-  Beautiful Soup
-  json
-  os
+  Beautiful Soup, 
+  json, 
+  os, 
   requests
 
