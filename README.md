@@ -1,3 +1,7 @@
+Overview:
+
+use this tool to generate sdl and soql files for a provided list of object API names. sdl and soql files will be created with proper conventions to extract and migrate records using an external id field.
+
 Usage:
 
 1) enter your credentials (username, pw+security token) in the documentation/login.xml file
